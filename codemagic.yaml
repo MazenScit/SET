@@ -7,7 +7,7 @@ workflows:
   ios-workflow:
     name: iOS Workflow 
     integrations:
-      app_store_connect: SET
+      app_store_connect: set
 
     environment:
       vars:
